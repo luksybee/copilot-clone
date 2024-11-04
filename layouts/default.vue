@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Header />
+    <TheHeader />
     <slot />
     <MessageInput />
   </div>
